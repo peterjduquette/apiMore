@@ -1,0 +1,1 @@
+apiMore is the relatively complete version of apiQuick.  It is somewhat more structured/orgained, and includes all obvious endpoints for the data sources proviced (the beiq Sqlite database, and the mock Merit API).  
